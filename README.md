@@ -1,6 +1,3 @@
-# dzap-assignment
-Assignment for Dzap
-
 # Require:
 
 Nodejs
@@ -20,4 +17,3 @@ UI is also not responsive.
 
 Let me know in case of any improvements, i will be happy to be guided
 :D
-
